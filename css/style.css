@@ -1,0 +1,13 @@
+.accordion-demo {
+  width: 600px;
+  margin: 0 auto;
+}
+.content-login {
+  width: 50%;
+  margin: 0 auto;
+}
+.footer-login {
+  width: 50%;
+  margin: 10px 0 0 0;
+  float: right;
+}

@@ -1,0 +1,16 @@
+{
+  "name": "bower",
+  "version": "1.0.0",
+  "description": "prj-angular-ui",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "latest"
+  ],
+  "authors": [
+    "SanhNX"
+  ],
+  "license": "SanhNX",
+  "homepage": "index.php"
+}
